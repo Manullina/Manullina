@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Manullina
+- 👋 Hiiii, I’m @Manullina
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Phyton
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i live in brazil :>
+- ⚡ Fun fact: i have an extra tooth :>
 
 <!---
 Manullina/Manullina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
